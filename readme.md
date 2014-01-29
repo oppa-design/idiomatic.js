@@ -424,6 +424,10 @@ The following sections outline a _reasonable_ style guide for modern JavaScript 
     E. Quotes
 
     Whether you prefer single or double shouldn't matter, there is no difference in how JavaScript parses them. What **ABSOLUTELY MUST** be enforced is consistency. **Never mix quotes in the same project. Pick one style and stick with it.**
+    
+    Our default quote is single quote;
+    
+    var name = 'Oppa';
 
     F. End of Lines and Empty Lines
 
